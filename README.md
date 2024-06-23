@@ -3,6 +3,11 @@
 This script allows you to spam any emoji on a token page on [DexScreener.com](https://dexscreener.com) with unique fingerprints, ensuring it remains undetected. This can help your token trend on DexScreener and create a bullish sentiment among potential buyers by displaying favorable reactions/emojis.
 
 
+
+https://github.com/bigmovers/dexscreener-reactions/assets/165174061/8d07e7cb-bd0a-46eb-92c8-8688966a4a07
+
+
+
 **TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**: [@benorizz0](https://t.me/benorizz0)
 
 Support in running the tool is included in the price.
