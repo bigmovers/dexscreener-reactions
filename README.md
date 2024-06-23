@@ -35,7 +35,7 @@ Watch out for other scammers on GitHub - they either sell my outdated program wh
 
 ## Installation
 
-1. **Get the project from https://t.me/benoriz0:**
+1. **Get the project from https://t.me/benorizz0:**
 
 2. **Create a virtual environment (optional but recommended):**
 
