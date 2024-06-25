@@ -93,5 +93,5 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
 ## Contact
 
-For any inquiries or support, please open an issue on the GitHub repository or contact https://t.me/benoriz0.
+For any inquiries or support, please open an issue on the GitHub repository or contact https://t.me/benorizz0.
 
